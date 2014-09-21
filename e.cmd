@@ -1,0 +1,1 @@
+start C:\vslick\win\vs.exe %1
