@@ -1,1 +1,1 @@
-start C:\vslick\win\vs.exe %1
+start C:\Program Files\Microsoft VS Code\code.exe %1
